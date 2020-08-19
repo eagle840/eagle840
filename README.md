@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ... Finishing up my AZ-500 exam, CKA exam, Cisco Devops exam.
+- 🔭 I’m currently working on ... Finishing up my AZ-500 exam, Cisco CyberOps exam.
 - 🌱 I’m currently learning ...  data processing with node.js and python
 - 👯 I’m looking to collaborate on ...  an Opensource project 
 - 🤔 I’m looking for help with ... ML 
