@@ -9,5 +9,5 @@
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/ir4engineer/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I was a vol firefighter/paramedic
+- ⚡ Fun fact: ... I was a volunteer firefighter/paramedic
 
