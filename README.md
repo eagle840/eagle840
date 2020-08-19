@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome to my profile page 👋
 
-<!--
-**eagle840/eagle840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Finishing up my AZ-500 exam
+- 🌱 I’m currently learning ...  data processing with node.js and python
+- 👯 I’m looking to collaborate on ...  an Opensource project 
+- 🤔 I’m looking for help with ... ML 
+- 💬 Ask me about ... anything
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/ir4engineer/)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I was a vol firefighter/paramedic
+
