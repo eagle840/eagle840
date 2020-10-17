@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ... my security exams: Azure AZ-500 and Cisco CyberOps.
+- 🔭 I’m currently working on ... Kubernetes CKA exam
 - 🌱 I’m currently learning ...  data processing with node.js and python
 - 👯 I’m looking to collaborate on ...  an Opensource project 
 - 🤔 I’m looking for help with ... ML 
