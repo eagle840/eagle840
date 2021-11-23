@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on ... Kubernetes CKA exam
-- 🌱 I’m currently learning ...  data processing with node.js and python
+- 🔭 I’m currently working on ... Renewing Azure Devops Professional
+- 🌱 I’m currently learning ...   python packaging
 - 👯 I’m looking to collaborate on ...  an Opensource project 
 - 🤔 I’m looking for help with ... ML 
 - 💬 Ask me about ... anything
