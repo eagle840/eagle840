@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ... New employment
+- 🔭 I’m currently working on ... On boarding at BAE
 - 🌱 I’m currently learning ...   PMI CAPM
 - 👯 I’m looking to collaborate on ...  an Opensource project 
 - 🤔 I’m looking for help with ... ML 
