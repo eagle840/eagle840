@@ -15,7 +15,8 @@
 - Google Cloud Badges [link](https://www.cloudskillsboost.google/public_profiles/edb37aed-0c03-41e3-8f58-d875931fdf01)
 - PluralSight (BAE) [link](https://app.pluralsight.com/profile/nicholas-busby-c2)
 - PluralSight (Personal) [link](https://app.pluralsight.com/profile/nicholas-busby#0)
-- Microsoft Account A [link](https://learn.microsoft.com/en-us/users/nicholasbusby-1422/)
+- Microsoft Account G [link](https://learn.microsoft.com/en-us/users/nicholasbusby-1422/)
+- Microsoft Account A [link](https://learn.microsoft.com/en-us/users/nicholasbusby-8374/)
 - Accredible [link](https://www.credential.net/profile/nicholasjohnbusbynicholasjohnbusby/wallet#gs.680zth)
 
 
