@@ -1,7 +1,7 @@
 ### Welcome to my profile page 👋
 
-- 🔭 I’m currently working on ... On boarding at BAE
-- 🌱 I’m currently learning ...   PMI CAPM
+- 🔭 I’m currently working on ... Stuff at BAE
+- 🌱 I’m currently learning ...   Azure Developer Certificate
 - 👯 I’m looking to collaborate on ...  an Opensource project 
 - 🤔 I’m looking for help with ... ML 
 - 💬 Ask me about ... anything
